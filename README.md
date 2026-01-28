@@ -1,7 +1,5 @@
 # 📊 Sales Performance Dashboard (Power BI)
 
-## 📝 Project Overview
-This project is a comprehensive **Sales Analytics Dashboard** built in Power BI Desktop. The primary goal of this lab was to utilize built-in visuals and automatic data aggregations to transform raw sales data into actionable business insights without the use of complex DAX formulas or data transformation.
 
 
 

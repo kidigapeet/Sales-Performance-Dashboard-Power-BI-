@@ -3,6 +3,11 @@
 ## 📝 Project Overview
 This project is a comprehensive **Sales Analytics Dashboard** built in Power BI Desktop. The primary goal of this lab was to utilize built-in visuals and automatic data aggregations to transform raw sales data into actionable business insights without the use of complex DAX formulas or data transformation.
 
+
+
+![powerbi](https://github.com/user-attachments/assets/d9e135b1-3b08-4515-b35b-42c8c47100fd)
+
+
 ## 🚀 Learning Outcomes
 * **Data Integration:** Successfully loaded Excel datasets directly into Power BI.
 * **Visual Selection:** Chose appropriate charts (Donut, Bar, Line, Cards) to represent different data dimensions.

@@ -25,4 +25,4 @@ The dashboard includes at least 10 high-impact visuals:
 ## 📂 How to View
 1. Download the `.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
-3. Alternatively, you can view the live interactive version via the [Power BI Service Link]([https://app.powerbi.com/groups/me/reports/d969ea80-2b7e-4822-adc0-986692085c21?pbi_source=desktop]).
+3. Alternatively, you can view the live interactive version via the [Power BI Service Link](https://app.powerbi.com/groups/me/reports/d969ea80-2b7e-4822-adc0-986692085c21?pbi_source=desktop).
